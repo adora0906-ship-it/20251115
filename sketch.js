@@ -82,7 +82,7 @@ function createSideMenu() {
         if (idx === 4) {
             a.addEventListener('click', (ev) => {
                 ev.preventDefault();
-                openIframe('https://hackmd.io/@VJcjhMUTQuSJpCvVU9Kaow/S1H_msByWx');
+                openIframe('https://hackmd.io/@VJcjhMUTQuSJpCvVU9Kaow/SyhW2TCJbl');
             });
         }
         // 第六個選項：淡江大學（包含子選單）
